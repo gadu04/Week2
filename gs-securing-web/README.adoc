@@ -36,7 +36,6 @@ Dưới đây là các bước minh chứng rằng hệ thống hoạt động �
 ### **Bước 2: Đăng xuất khỏi admin**
 - Chọn phương thức `logout`
 - Lập tức quay trở về giao diện login với đường dẫn `http://localhost:8080/login`.
-- Bấm **Send**
 
 ![Bước 2](img3/2.png)
 > Hình ảnh trên cho thấy đã quay trở về màn hình login thành công.
@@ -46,7 +45,6 @@ Dưới đây là các bước minh chứng rằng hệ thống hoạt động �
 ### **Bước 3: Đăng nhập dưới quyền User**
 - Sử dụng tài khoản **user** và mật khẩu **password** để đăng nhập dưới quyền USER.
 - Truy cập thành công đường dẫn `http://localhost:8080/hello`
-- Bấm **Send**
 
 ![Bước 3](img3/3.png)
 > Hình ảnh trên hiển thị đã đăng nhập thành công với user.
